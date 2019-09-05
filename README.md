@@ -3,7 +3,7 @@ Learning about data mining basic knowledge using R
 
 # R notes
 <- : equal, give a value  
-e.g. vec <- c(1,2,3)  
+     e.g. vec <- c(1,2,3)  
 
 c() : combine
 
